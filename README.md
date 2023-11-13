@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab(AlgoExpert)</b>
 
-<h2>Certifications</h2>
+<h2>🎖️Certifications</h2>
 
 <a href="https://coursera.org/verify/professional-cert/J55NRBR63VH2"> Google IT Support Professional </a>
 
