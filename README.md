@@ -1,12 +1,16 @@
-<h1>Hi, I'm Sylvester! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/sylvesterhayes">Tech Professional</a>,
+<h1>Hi, I'm Sylvester! <br/><a href="https://github.com/joshmadakor1">Linux Engineer</a>, <a href="https://www.linkedin.com/in/sylvesterhayes"></a>,
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Linux Projects:</h2>
 
-- <b>Active Directory Home Lab(AlgoExpert)</b>
+- <b>Ansible Automation lab</b>
 
 <h2>🎖️ Certifications:</h2>
 
 <a href="https://coursera.org/verify/professional-cert/J55NRBR63VH2"> Google IT Support Professional </a>
+<h2> LPI-1 </h2>
+<h2> RHCSA </h2>
+<h2> RHCE </h2>
+
 
 <a href="https://www.credly.com/badges/fa804184-9900-4d45-99b0-685aede9a5f7/public_url"> Comptia A+ </a>
  
